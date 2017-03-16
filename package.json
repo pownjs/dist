@@ -3,7 +3,9 @@
   "version": "0.3.0",
   "description": "Pownage guaranteed",
   "main": "index.js",
-  "scripts": {},
+  "scripts": {
+    "pown": "POWN_ROOT=. pown"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/pownjs/pown-dist.git"
@@ -22,5 +24,8 @@
     "pown-captcha": "^0.3.0",
     "pown-credits": "^0.2.0",
     "pown-sock": "^0.1.0"
+  },
+  "devDependencies": {
+    "pown-cli": "^0.2.1"
   }
 }
