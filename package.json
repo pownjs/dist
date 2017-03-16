@@ -3,9 +3,7 @@
   "version": "0.0.0",
   "description": "Pownage guaranteed",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+  "scripts": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/pownjs/pown-dist.git"
@@ -21,5 +19,6 @@
   },
   "homepage": "https://github.com/pownjs/pown-dist#readme",
   "dependencies": {
+    "pown-captcha": "^0.1.0"
   }
 }
