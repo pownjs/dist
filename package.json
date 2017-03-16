@@ -20,6 +20,7 @@
   "homepage": "https://github.com/pownjs/pown-dist#readme",
   "dependencies": {
     "pown-captcha": "^0.3.0",
-    "pown-credits": "^0.2.0"
+    "pown-credits": "^0.2.0",
+    "pown-sock": "^0.1.0"
   }
 }
