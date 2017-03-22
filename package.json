@@ -25,11 +25,9 @@
     "pown-credits": "^0.2.0",
     "pown-responder": "^0.1.0",
     "pown-sock": "^0.1.0",
-    "pown-tips": "0.0.0"
+    "pown-tips": "0.0.2"
   },
   "devDependencies": {
-    "pown-cli": "^0.3.0",
-    "pown-credits": "^0.2.0",
-    "pown-tips": "0.0.0"
+    "pown-cli": "^0.3.0"
   }
 }
