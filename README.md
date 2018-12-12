@@ -1,16 +1,18 @@
-# pown-dist  [![Gitter](https://img.shields.io/gitter/room/nwjs/nw.js.svg)](https://gitter.im/pownjs/Lobby)
+[![Follow on Twitter](https://img.shields.io/twitter/follow/pownjs.svg?logo=twitter)](https://twitter.com/pownjs)
 
-> The main Pown.js package distribution.
+# Pown Dist
+
+The Pown.js module distribution.
 
 ## Quickstart
 
-From the same directory as your project's package.json, install this module with the following command:
+Install this module from the root of your project:
 
 ```sh
-$ npm install pown-dist --save
+$ npm install @pown/dist --save
 ```
 
-Once that's done, utilise the modules though [pown-cli](https://github.com/pownjs/pown-cli) and [pown](https://github.com/pownjs/pown).
+Once done, utilise the modules though [pown-cli](https://github.com/pownjs/pown-cli) and [pown](https://github.com/pownjs/pown):
 
 ```sh
 $ ./node_modules/.bin/pown
