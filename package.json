@@ -1,8 +1,8 @@
 {
-  "name": "pown-dist",
-  "version": "0.9.0",
+  "name": "@pown/dist",
+  "version": "0.4.0",
   "description": "Pownage guaranteed",
-  "main": "index.js",
+  "main": "lib/index.js",
   "scripts": {
     "pown": "POWN_ROOT=. pown"
   },
@@ -21,15 +21,9 @@
   },
   "homepage": "https://github.com/pownjs/pown-dist#readme",
   "dependencies": {
-    "pown-apps": "^0.0.2",
-    "pown-captcha": "^0.3.0",
-    "pown-credits": "^0.2.0",
-    "pown-now": "^0.1.0",
-    "pown-proxy": "^0.0.1",
-    "pown-responder": "^0.1.0",
-    "pown-tips": "^0.0.2"
+    "@pown/credits": "^0.5.1"
   },
   "devDependencies": {
-    "pown-cli": "^0.3.0"
+    "@pown/cli": "^0.5.1"
   }
 }
