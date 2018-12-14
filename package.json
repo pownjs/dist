@@ -4,7 +4,7 @@
   "description": "Pownage guaranteed",
   "main": "lib/index.js",
   "scripts": {
-    "pown": "POWN_ROOT=. pown",
+    "pown": "POWN_ROOT=. pown-cli",
     "test": "mocha"
   },
   "repository": {
@@ -22,9 +22,9 @@
   },
   "homepage": "https://github.com/pownjs/pown-dist#readme",
   "dependencies": {
-    "@pown/credits": "^2.0.0"
+    "@pown/credits": "^2.0.3"
   },
   "devDependencies": {
-    "@pown/cli": "^2.0.0"
+    "@pown/cli": "^2.0.5"
   }
 }

@@ -2,7 +2,7 @@
 
 # Pown Dist
 
-The Pown.js module distribution.
+The Pown.js core module distribution.
 
 ## Quickstart
 
