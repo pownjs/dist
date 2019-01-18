@@ -23,9 +23,9 @@
   "homepage": "https://github.com/pownjs/pown-dist#readme",
   "dependencies": {
     "@pown/blessed": "^2.0.3",
-    "@pown/credits": "^2.0.3"
+    "@pown/credits": "^2.0.4"
   },
   "devDependencies": {
-    "@pown/cli": "^2.0.5"
+    "@pown/cli": "^2.1.0"
   }
 }
