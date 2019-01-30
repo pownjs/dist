@@ -22,11 +22,11 @@
   },
   "homepage": "https://github.com/pownjs/pown-dist#readme",
   "dependencies": {
-    "@pown/blessed": "^2.2.0",
+    "@pown/blessed": "^2.2.1",
     "@pown/credits": "^2.0.4",
-    "@pown/modules": "^2.1.0"
+    "@pown/modules": "^2.2.0"
   },
   "devDependencies": {
-    "@pown/cli": "^2.5.0"
+    "@pown/cli": "^2.7.0"
   }
 }
